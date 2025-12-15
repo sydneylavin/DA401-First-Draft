@@ -89,19 +89,19 @@ This project contributes to the economics of wellness marketing by showing:
 - The results indicate that organic dairy farms do not underperform in sales; rather, differences in profitability are primarily driven by higher production costs.
 - These findings support existing literature on wellness marketing by showing that consumer-driven price premiums translate into higher farm-level revenue.
 # Visuals
-Figure 1: Variable Table
-Figure 2: Derived variable table
-Figure 3: Deflation formula (Federal Reserve Bank of Dallas, n.d.)
-Figure 4: Plot of real and nominal values of milk sold from 2005, 2010, and 2016 (organic vs conventional)
-Figure 5: Profit model summary (OLS)
-Figure 6: Histogram and KDE of profit model residuals
-Figure 7: Controlled profit model summary (OLS)
-Figure 8: Scatterplot of controlled profit model residuals
-Figure 9: Profit over time in real 2005 $/cwt (organic vs conventional)
-Figure 10: Sales model summary (OLS)
-Figure 11: Real milk sales (actual vs predicted values)
-Figure 12: Coefficient plot for milk sales regression model (real 2005 $/cwt)
-Figure 13: Predicted milk sales for U.S. dairy farms with costs held constant (organic vs conventional)
+- Figure 1: Variable Table
+- Figure 2: Derived variable table
+- Figure 3: Deflation formula (Federal Reserve Bank of Dallas, n.d.)
+- Figure 4: Plot of real and nominal values of milk sold from 2005, 2010, and 2016 (organic vs conventional)
+- Figure 5: Profit model summary (OLS)
+- Figure 6: Histogram and KDE of profit model residuals
+- Figure 7: Controlled profit model summary (OLS)
+- Figure 8: Scatterplot of controlled profit model residuals
+- Figure 9: Profit over time in real 2005 $/cwt (organic vs conventional)
+- Figure 10: Sales model summary (OLS)
+- Figure 11: Real milk sales (actual vs predicted values)
+- Figure 12: Coefficient plot for milk sales regression model (real 2005 $/cwt)
+- Figure 13: Predicted milk sales for U.S. dairy farms with costs held constant (organic vs conventional)
 # Tool & Libraries
 1) Python — primary programming language
 2) Pandas — data cleaning and merging 
